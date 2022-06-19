@@ -12,6 +12,6 @@ https://youtu.be/ec8vSKJuZTk
 
 
 video at current time
-https://youtu.be/ec8vSKJuZTk?t=1211
+https://youtu.be/ec8vSKJuZTk
 
 
