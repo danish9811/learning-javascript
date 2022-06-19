@@ -1,0 +1,31 @@
+body {
+  font-family: "JetBrains Mono", sans-serif;
+  background-color: dodgerblue;
+  margin: 20px;
+  padding: 20px;
+}
+
+button {
+  height: 40px;
+  transition: 0.12s;
+
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: dodgerblue;
+  color: white;
+}
+
+.wrapping-div {
+  position: relative;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid lightgray;
+  width: 500px;
+}
+
+
+.buttons {
+  text-align: center;
+}
