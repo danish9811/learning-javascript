@@ -6,7 +6,13 @@ dist
 .cache
 
 .idea
+
+# the actual repo of ania kubov of the memory game
 aniaRepo
+
+
+
+
 .phpIntel
 .vscode
 ./vscode
