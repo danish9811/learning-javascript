@@ -3,20 +3,11 @@
 
 ### Sources for learning from
 - [freeCodeCamp youtube channel](https://www.youtube.com/c/Freecodecamp)
+- [free code camp actual website](https://freecodecamp.org)
+- [Ania Kubov javascript Video](https://youtu.be/ec8vSKJuZTk)
 
 
-freeCodecamp youtube channel
-https://www.youtube.com/c/Freecodecamp
-
-free code camp website
-https://freecodecamp.org
-
-
-currency I'm watching Ania kubov Memory game javascript video
-https://youtu.be/ec8vSKJuZTk
-
-
-video at current time
-https://youtu.be/ec8vSKJuZTk
+### Video at current time
+- [Video at current time](https://youtu.be/ec8vSKJuZTk)
 
 
